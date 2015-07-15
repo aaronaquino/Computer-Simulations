@@ -8,7 +8,6 @@
  * data structures other than a single Stack of integers.
  */
 
-// TROLOLOOLOLLLOOLL
 
 
 // Do not modify this code. Use only the isEmpty, push, pop, and/or peek functions.

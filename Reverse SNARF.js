@@ -8,7 +8,6 @@
  */
 
 
-// TROLOLOOLOLLLOOLL
 
 // Do not modify this code. Use only the isEmpty, push, pop, and/or peek functions.
 function Stack() {
